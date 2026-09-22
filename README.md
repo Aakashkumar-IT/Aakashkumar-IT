@@ -63,7 +63,7 @@ every step.**
 
 </div>
 
-<sub>Python • Java • JavaScript • HTML • CSS</sub>
+<sub>  Python  •  Java  •   JavaScript  •  HTML  •  CSS </sub>
 
 <br><br>
 
@@ -180,11 +180,125 @@ MLOps • DevOps • Cloud
 ---
 
 <!-- ========================================================= -->
-<!--                         FOOTER                             -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<br>
+
+### 🛡️ GuardianEyes
+
+#### AI-Powered Home & Baby Safety Monitoring
+
+An AI-based monitoring concept designed to provide parents with an **extra pair of careful eyes** when a baby is under the care of a babysitter. The system focuses on detecting potentially unsafe situations and providing gentle, timely alerts rather than continuously recording or making assumptions about people.
+
+**Exploring:**
+
+`AI` `Computer Vision` `YOLO` `OpenCV` `Python` `FastAPI` `Flask`
+
+<br>
+
+---
+
+### ♻️ Plastic Ledger
+
+#### AI-Driven Environmental Monitoring & Plastic Tracking
+
+A technology-driven environmental project focused on understanding and tracking plastic-related pollution using **data, mapping, APIs, and intelligent analysis**. The goal is to turn environmental data into useful insights that can support better awareness and decision-making.
+
+**Exploring:**
+
+`AI/ML` `Python` `APIs` `Data` `Maps` `Environmental Technology`
+
+<br>
+
+---
+
+### 🦸 3D Web Practice Project
+
+#### Personal Project for Exploring 3D Web Development
+
+A personal project created to practice and explore **3D web development**. This project gives me an opportunity to experiment with interactive 3D environments, animations, camera movement, visual effects, and modern web technologies while improving my frontend development skills.
+
+**Exploring:**
+
+`React` `Three.js` `React Three Fiber` `TypeScript` `FastAPI` `3D Web`
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                    GITHUB ACTIVITY                        -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aakashkumar-IT&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<br><br>
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashkumar-IT&layout=compact&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+### 🌱 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashkumar-IT&hide_border=true" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                         CONNECT                            -->
+<!-- ========================================================= -->
+
+## 🤝 Connect
+
+<div align="center">
+
+### 💬 Let's Connect & Grow Together
+
+<br>
+
+<a href="mailto:aakashkumar28107@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" title="Email" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aakash-kumar-83aa343b7">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshlxmWQqXbKixmtIxdgf28QitUKQAcNNfI5PaZASMrQ&s=10" width="48" title="LinkedIn" alt="LinkedIn">
+</a>
+<br>
+<sub>📧 Email &nbsp;&nbsp; • &nbsp;&nbsp; 💼 LinkedIn</sub>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    FINAL VISUAL                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-### 🌱 Learning Today • 🛠️ Building Tomorrow • 🚀 Growing Every Day
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1200&color=7B2CBF&center=true&vCenter=true&width=750&height=55&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%91%8B+Glad+to+have+you+here;%F0%9F%8C%B1+Keep+Learning+%E2%80%A2+Keep+Building;%F0%9F%9A%80+See+you+in+the+next+project!" alt="Profile Greeting Animation" />
+
+<br><br>
+
+###  Thanks for stopping by!
+
+**Keep exploring • Keep building • Keep growing 🚀**
+
+<br>
 
 </div>
