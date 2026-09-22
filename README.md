@@ -1,12 +1,19 @@
 <!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
+<!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
+<!-- Soft theme-friendly header -->
+<div style="
+  padding: 35px 20px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #eef7ff, #f5f1ff, #eefcf8);
+">
+
 # 👋 Hi, I'm Aakash Kumar
 
-### 🤖 AI/ML • 🌐 Full Stack • 💻 Technology
+### 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack &nbsp;•&nbsp; 💻 Technology
 
 <br>
 
@@ -14,7 +21,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Learning+AI%2FML+%E2%80%A2+Building+with+Technology;Exploring+Full+Stack+Development;Learning+Problem+Solving+Every+Day;Learn+%E2%80%A2+Build+%E2%80%A2+Connect+%E2%80%A2+Grow" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=5865F2&center=true&vCenter=true&width=750&lines=🧠+Learning+AI%2FML+%26+Building+with+Technology;🌐+Exploring+Full+Stack+Development;🧩+Sharpening+Problem+Solving+Skills;🚀+Turning+Ideas+into+Projects;🔄+Learn+%E2%80%A2+Build+%E2%80%A2+Connect+%E2%80%A2+Grow" alt="Learning Journey Animation" />
+
+<br>
+
+**Curious Mind • Continuous Learner • Future Tech Professional**
+
+</div>
 
 </div>
 
@@ -53,11 +66,6 @@ every step.**
 
 ## 🛠️ My Technology Stack
 
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
 ### 💻 Languages
 
 🐍 **Python**  
@@ -73,124 +81,137 @@ every step.**
 
 🎨 **CSS**
 
-</td>
+<br>
 
-<td valign="top" width="50%">
+### 🌐 Full Stack Development
 
-### 🎨 Frontend
+#### 🚀 Backend
 
-⚛️ **React**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" height="35" alt="FastAPI"/> **FastAPI**
 
-🎨 **Tailwind CSS**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" height="35" alt="Flask"/> **Flask**
 
-🅱️ **Bootstrap**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/> **Node.js**
 
-🌌 **Three.js**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" alt="Express.js"/> **Express.js**
+
+<br>
+
+#### 🎨 Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React"/> **React**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/> **Tailwind CSS**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" alt="Bootstrap"/> **Bootstrap**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="35" height="35" alt="Three.js"/> **Three.js**  
 *For 3D web experiences*
 
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
-
-### ⚙️ Backend
-
-🚀 **FastAPI**
-
-🧪 **Flask**
-
-🟢 **Node.js**
-
-🚂 **Express.js**
-
-</td>
-
-<td valign="top" width="50%">
+<br>
 
 ### 🤖 AI / Machine Learning
 
-🐍 **Python**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" alt="NumPy"/> **NumPy**
 
-🔢 **NumPy**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35" alt="Pandas"/> **Pandas**
 
-🐼 **Pandas**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" height="35" alt="OpenCV"/> **OpenCV**
 
-👁️ **OpenCV**
-
-🔥 **PyTorch**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" alt="PyTorch"/> **PyTorch**
 
 🎯 **YOLO / Ultralytics**
 
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
+<br>
 
 ### 🔧 Developer Tools
 
-🌱 **Git**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/> **Git**
 
-🐙 **GitHub**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/> **GitHub**
 
-💻 **VS Code**
-
-</td>
-
-<td valign="top" width="50%">
-
-### 📈 My Focus
-
-🧠 AI / ML  
-🌐 Full Stack Development  
-🧩 Problem Solving  
-🚀 Building Real-World Projects
-
-</td>
-
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code"/> **VS Code**
 
 ---
 
 <!-- ========================================================= -->
-<!--                  DEVELOPMENT JOURNEY                      -->
+<!--                    TECH JOURNEY                           -->
 <!-- ========================================================= -->
 
 ## 🧭 My Tech Journey
 
 <div align="center">
 
-### 🧠 Learning • 🛠️ Building • 🔍 Exploring
+### 🌱 Learn → 🛠️ Build → 🔍 Explore → 🚀 Grow
+
+<br>
+
+**💻 Programming**
+
+Python • Java • JavaScript
+
+⬇️
+
+**🌐 Full Stack**
+
+React • Node.js • FastAPI • Frontend • Backend
+
+⬇️
+
+**🤖 AI / ML**
+
+Python • NumPy • Pandas • OpenCV • ML Models
+
+⬇️
+
+**🚀 Exploring Next**
+
+MLOps • DevOps • Cloud
+
+<br>
+
+> **Learning the fundamentals → Building projects → Exploring deeper → Growing into a Tech Professional**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  LEARNING PHILOSOPHY                       -->
+<!-- ========================================================= -->
+
+## 🧠 How I Learn
+
+<div align="center">
+
+### ✨ Every Technology Starts With Curiosity
+
+<br>
+
+> **I believe every new technology is an opportunity to explore,  
+> experiment, and build something meaningful.**
 
 <br>
 
 ```text
-                         🚀
-                  TECH PROFESSIONAL
-                         │
-          ┌──────────────┴──────────────┐
-          │                             │
-     🌐 FULL STACK                  🤖 AI / ML
-          │                             │
-     ┌────┴────┐                   ┌────┴────┐
-     │         │                   │         │
-   ⚛️ React   🟢 Node            🐍 Python  👁️ OpenCV
-     │         │                   │         │
-  Frontend   Backend               ML     Computer
-                                  Models    Vision
-     │         │                   │
-     └────┬────┘                   │
-          │                        │
-          └───────────┬────────────┘
-                      │
-                  🔄 MLOps
-                      │
-                  ⚙️ DevOps
-                      │
-                  ☁️ Cloud
+              💡 CURIOSITY
+                   │
+                   ▼
+              📚 LEARN
+                   │
+                   ▼
+            🧪 EXPERIMENT
+                   │
+                   ▼
+              🛠️ BUILD
+                   │
+                   ▼
+              📢 SHARE
+                   │
+                   ▼
+             🔍 IMPROVE
+                   │
+                   ▼
+              🔁 REPEAT
+                   │
+                   └───────────────► 💡 CURIOSITY
