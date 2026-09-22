@@ -4,30 +4,13 @@
 
 <div align="center">
 
-<!-- Soft theme-friendly header -->
-<div style="
-  padding: 35px 20px;
-  border-radius: 20px;
-  background: linear-gradient(135deg, #eef7ff, #f5f1ff, #eefcf8);
-">
 
-# 👋 Hi, I'm Aakash Kumar
 
-### 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack &nbsp;•&nbsp; 💻 Technology
-
-<br>
-
-> **Learn • Build • Connect • Grow 🚀**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=5865F2&center=true&vCenter=true&width=750&lines=🧠+Learning+AI%2FML+%26+Building+with+Technology;🌐+Exploring+Full+Stack+Development;🧩+Sharpening+Problem+Solving+Skills;🚀+Turning+Ideas+into+Projects;🔄+Learn+%E2%80%A2+Build+%E2%80%A2+Connect+%E2%80%A2+Grow" alt="Learning Journey Animation" />
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=310&color=black&section=header&reversal=true&text=%F0%9F%91%8B+Hi%2C+I%27m+Aakash+Kumar+&textBg=false&fontColor=101012&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=ffffff&strokeWidth=5&desc=%F0%9F%A4%96+AI%2FML+%E2%80%A2+%F0%9F%8C%90+Full+Stack+%E2%80%A2+%F0%9F%92%BB+Technology++&descSize=20&descAlign=50&descAlignY=70" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&letterSpacing=1px&pause=1000&color=3D41A6&background=FFFFFF&center=true&vCenter=true&random=true&width=500&height=50&lines=Building+With+Technology;Exploring+Full+Stack+Development;Sharpening+Problem+Solving+Skills;Turning+Ideas+into+Real+Projects" alt="Typing SVG" />
 <br>
 
 **Curious Mind • Continuous Learner • Future Tech Professional**
-
-</div>
 
 </div>
 
@@ -39,23 +22,23 @@
 <!--                       WHO I AM                             -->
 <!-- ========================================================= -->
 
-## 👋 Who I Am
+## 🌱 Beyond the Code
 
-I'm a curious and enthusiastic student who genuinely enjoys **learning new
-things, exploring technology, and improving myself every day**. I like trying
-out new ideas, building things, solving problems, and understanding how
+I'm a curious and enthusiastic student who genuinely enjoys **learning new 
+things, exploring technology, and improving myself every day**. I like trying 
+out new ideas, building things, solving problems, and understanding how 
 technology can be used to create something useful.
 
-I'm also someone who enjoys **connecting and engaging with people**. I believe
-that learning isn't limited to classrooms or textbooks — conversations,
+I'm also someone who enjoys **connecting and engaging with people**. I believe 
+that learning isn't limited to classrooms or textbooks — conversations, 
 teamwork, experiences, and even mistakes teach us something new.
 
-I'm still exploring my path in technology, but my goal is to grow into a
-**skilled technology professional** who can build meaningful and innovative
+I'm still exploring my path in technology, but my goal is to grow into a 
+**skilled technology professional** who can build meaningful and innovative 
 solutions. 🚀
 
-For me, it's not just about knowing a technology — it's about **learning
-continuously, staying positive, working with people, and becoming better with
+For me, it's not just about knowing a technology — it's about **learning 
+continuously, staying positive, working with people, and becoming better with 
 every step.**
 
 ---
@@ -66,71 +49,91 @@ every step.**
 
 ## 🛠️ My Technology Stack
 
-### 💻 Languages
+### 🧬 Core Arsenal
 
-🐍 **Python**  
-*Strong fundamentals*
+#### 💻 Languages
 
-☕ **Java**  
-*Working knowledge*
+<div align="left">
 
-⚡ **JavaScript**  
-*Currently learning*
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python" alt="Python">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java" alt="Java">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3">
 
-🌐 **HTML**
+</div>
 
-🎨 **CSS**
+<sub>Python • Java • JavaScript • HTML • CSS</sub>
 
-<br>
+<br><br>
 
-### 🌐 Full Stack Development
+#### 🤖 AI / Machine Learning
 
-#### 🚀 Backend
+<div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" height="35" alt="FastAPI"/> **FastAPI**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy" alt="NumPy">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas" alt="Pandas">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" title="OpenCV" alt="OpenCV">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch" alt="PyTorch">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ultralytics/7B2CBF" width="42" title="YOLO / Ultralytics" alt="YOLO / Ultralytics">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" height="35" alt="Flask"/> **Flask**
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/> **Node.js**
+<sub>NumPy • Pandas • OpenCV • PyTorch • YOLO / Ultralytics</sub>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" alt="Express.js"/> **Express.js**
+<br><br>
 
-<br>
+#### 🔧 Developer Tools
 
-#### 🎨 Frontend
+<div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React"/> **React**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git" alt="Git">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub" alt="GitHub">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="Visual Studio Code" alt="VS Code">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/> **Tailwind CSS**
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" alt="Bootstrap"/> **Bootstrap**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="35" height="35" alt="Three.js"/> **Three.js**  
-*For 3D web experiences*
-
-<br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" alt="NumPy"/> **NumPy**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35" alt="Pandas"/> **Pandas**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" height="35" alt="OpenCV"/> **OpenCV**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" alt="PyTorch"/> **PyTorch**
-
-🎯 **YOLO / Ultralytics**
+<sub>Git • GitHub • VS Code</sub>
 
 <br>
 
-### 🔧 Developer Tools
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/> **Git**
+### 🌌 Frontier Lab
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/> **GitHub**
+#### 🌐 Full Stack Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code"/> **VS Code**
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React" alt="React">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS" alt="Tailwind CSS">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap" alt="Bootstrap">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="42" title="Three.js" alt="Three.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" alt="Node.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express.js" alt="Express.js">
+
+</div>
+
+<sub>React • Tailwind CSS • Bootstrap • Three.js • Node.js • Express.js</sub>
+
+<br><br>
+
+#### ⚙️ Backend & Frameworks
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI" alt="FastAPI">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask" alt="Flask">
+
+</div>
+
+<sub>FastAPI • Flask</sub>
+
+<br><br>
+
+#### 🚀 Next Technologies
+
+**MLOps • DevOps • Cloud • Deployment**
 
 ---
 
@@ -177,41 +180,11 @@ MLOps • DevOps • Cloud
 ---
 
 <!-- ========================================================= -->
-<!--                  LEARNING PHILOSOPHY                       -->
+<!--                         FOOTER                             -->
 <!-- ========================================================= -->
-
-## 🧠 How I Learn
 
 <div align="center">
 
-### ✨ Every Technology Starts With Curiosity
+### 🌱 Learning Today • 🛠️ Building Tomorrow • 🚀 Growing Every Day
 
-<br>
-
-> **I believe every new technology is an opportunity to explore,  
-> experiment, and build something meaningful.**
-
-<br>
-
-```text
-              💡 CURIOSITY
-                   │
-                   ▼
-              📚 LEARN
-                   │
-                   ▼
-            🧪 EXPERIMENT
-                   │
-                   ▼
-              🛠️ BUILD
-                   │
-                   ▼
-              📢 SHARE
-                   │
-                   ▼
-             🔍 IMPROVE
-                   │
-                   ▼
-              🔁 REPEAT
-                   │
-                   └───────────────► 💡 CURIOSITY
+</div>
