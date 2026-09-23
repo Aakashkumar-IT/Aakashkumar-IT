@@ -6,8 +6,8 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=310&color=black&section=header&reversal=true&text=%F0%9F%91%8B+Hi%2C+I%27m+Aakash+Kumar+&textBg=false&fontColor=101012&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=ffffff&strokeWidth=5&desc=%F0%9F%A4%96+AI%2FML+%E2%80%A2+%F0%9F%8C%90+Full+Stack+%E2%80%A2+%F0%9F%92%BB+Technology++&descSize=20&descAlign=50&descAlignY=70" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&letterSpacing=1px&pause=1000&color=3D41A6&background=FFFFFF&center=true&vCenter=true&random=true&width=500&height=50&lines=Building+With+Technology;Exploring+Full+Stack+Development;Sharpening+Problem+Solving+Skills;Turning+Ideas+into+Real+Projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=C76BE3&section=header&reversal=false&text=%F0%9F%91%8B+Hi%2C+I%27m+Aakash+Kumar+&textBg=false&fontColor=9C029E&fontSize=60&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=4&desc=%F0%9F%A4%96+AI%2FML+%E2%80%A2+%F0%9F%8C%90+Full+Stack+%E2%80%A2+%F0%9F%92%BB+Technology&descSize=20&descAlign=50&descAlignY=90" />
+<img src="https://readme-typing-svg.demolab.com?font=Monospace&letterSpacing=1px&pause=1000&color=A31F9A&center=true&vCenter=true&random=true&width=450&lines=Building+With+Technology;Exploring+Full+Stack+Development;Sharpening+Problem+Solving+Skills;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" alt="Typing SVG" />
 <br>
 
 **Curious Mind • Continuous Learner • Future Tech Professional**
@@ -291,7 +291,7 @@ A personal project created to practice and explore **3D web development**. This 
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1200&color=7B2CBF&center=true&vCenter=true&width=750&height=55&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%91%8B+Glad+to+have+you+here;%F0%9F%8C%B1+Keep+Learning+%E2%80%A2+Keep+Building;%F0%9F%9A%80+See+you+in+the+next+project!" alt="Profile Greeting Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1200&color=A31F9A&center=true&vCenter=true&width=750&height=55&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%91%8B+Glad+to+have+you+here;%F0%9F%8C%B1+Keep+Learning+%E2%80%A2+Keep+Building;%F0%9F%9A%80+See+you+in+the+next+project!" alt="Profile Greeting Animation" />
 
 <br><br>
 
